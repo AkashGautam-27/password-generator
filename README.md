@@ -8,7 +8,9 @@ Users can generate strong passwords, check password strength, save passwords sec
 
 ## 🌐 Live Demo
 
-
+```md
+[https://password-generator-and-manager.vercel.app/]
+```
 
 ---
 
