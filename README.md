@@ -122,11 +122,11 @@ All passwords are stored in LocalStorage and remain available after page refresh
 
 Add your project screenshot:
 
-```md
-![Password generator](./assets/screenshot2.png)
 
-![Password generator](./assets/screenshot1.png)
-```
+![Password generator](./src/assets/screenshot2.png)
+
+![Password generator](./src/assets/screenshot1.png)
+
 
 ---
 
