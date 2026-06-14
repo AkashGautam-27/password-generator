@@ -73,7 +73,7 @@ src
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/AkashGautam-27/password-generator.git
 ```
 
 ### Go to Project Folder
@@ -123,8 +123,9 @@ All passwords are stored in LocalStorage and remain available after page refresh
 Add your project screenshot:
 
 ```md
-![Password Manager Screenshot](./screenshot2.png)
-![Password Manager Screenshot](./screenshot1.png)
+![Password generator](./assets/screenshot2.png)
+
+![Password generator](./assets/screenshot1.png)
 ```
 
 ---
